@@ -1,6 +1,6 @@
 # Handwriting Recognition with GAN Enhancement
 
-A Python-based handwriting recognition system that uses Generative Adversarial Networks (GANs) to improve OCR accuracy for individual writing styles. The project combines CNN-based digit recognition with GAN-enhanced data augmentation, achieving significant improvements in recognition accuracy. Particularly focused on healthcare applications, this system helps bridge communication gaps for patients with speech or hearing impairments by making written communication more reliable and accessible.
+A handwriting recognition system using GANs to enhance OCR accuracy for individual writing styles. Designed to improve written communication in healthcare settings through personalized digit recognition.
 
 ## Overview
 
